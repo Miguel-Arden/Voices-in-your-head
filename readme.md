@@ -4,6 +4,8 @@ The voices, they're so loud!
 
 I will now provide a guide on how to setup the 2 services this program needs to run.
 
+Written in Python 3.12.8 (I think)
+
 Before you do anything you must run the following command:
 "pip install -r requirements.txt"
 This will install all the libaries you need to run this program.
